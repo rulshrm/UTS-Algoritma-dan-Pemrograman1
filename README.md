@@ -1,1 +1,1 @@
-# UTS-Algoritma-dan-Pemrograman1
+# UTS Algoritma dan Pemrograman1
